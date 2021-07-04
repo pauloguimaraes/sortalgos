@@ -1,2 +1,2 @@
 # sortalgos
-Comparing sort algorithms
+Comparing sort algorithms with Java
